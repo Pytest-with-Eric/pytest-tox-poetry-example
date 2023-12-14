@@ -17,6 +17,7 @@ black = "*"
 mypy = "*"
 ruff = "*"
 isort = "*"
+tox = "^4.11.4"
 
 [build-system]
 requires = ["poetry-core"]
