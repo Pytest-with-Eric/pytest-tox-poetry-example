@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "my-calculator"
+name = "calculator"
 version = "0.1.0"
 description = "Simple Calculator Package"
 authors = ["ericsalesdeandrade <sdaeric19@gmail.com>"]
